@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m an IT undergraduate focusing on web development, especially the MERN stack (React, Node, Express, MongoDB, TypeScript). I build small production-ready apps and developer tools, and I also work with Python and Java while learning.</p>
+<p align="left">I’m a CS Undergrad focusing on web development, especially the MERN stack (React, Node, Express, MongoDB, TypeScript). I build small production-ready apps and developer tools, and I also work with Python and Java while learning.</p>
 
 ###
 

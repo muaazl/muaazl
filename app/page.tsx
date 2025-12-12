@@ -21,7 +21,7 @@ export default function Home() {
           <p className="text-muted-foreground text-sm sm:text-base mb-4">Hi, I&apos;m</p>
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold mb-6 text-balance">Muaaz</h1>
           <p className="text-xl sm:text-2xl lg:text-3xl text-muted-foreground font-mono mb-8">
-            and I'm Developer
+            and I'm a Developer
           </p>
         </div>
 

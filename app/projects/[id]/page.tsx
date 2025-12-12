@@ -246,10 +246,10 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   }
 
   return {
-    title: `${project.title} | Abdul Lattif Muaaz`,
+    title: project.title,
     description: project.problem,
     openGraph: {
-      title: `${project.title} | Abdul Lattif Muaaz`,
+      title: project.title,
       description: project.problem,
       type: "article",
       publishedTime: project.date,

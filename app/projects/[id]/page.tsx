@@ -89,7 +89,7 @@ const projects = {
       "Query interface for natural language questions about uploaded documents",
     ],
     impact:
-      "Significantly reduced research time by enabling conceptual search and automatic summarization. Users can now query their entire research library semantically rather than relying on keyword search. [PLACEHOLDER - ADD USER FEEDBACK AND TIME SAVINGS]",
+      "Significantly reduced research time by enabling conceptual search and automatic summarization. Users can now query their entire research library semantically rather than relying on keyword search.",
     lessonsLearned: [
       "Learned efficient PDF parsing techniques preserving document structure",
       "Gained experience running local LLMs for privacy-focused applications",

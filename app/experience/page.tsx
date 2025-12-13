@@ -14,7 +14,7 @@ const experiences = [
   {
     title: "Web Developer",
     company: "Nierwell (Pvt) Ltd.",
-    period: "March 2024 – Present",
+    period: "March 2025 – Present",
     type: "Hybrid",
     responsibilities: [
       "Led the development of a comprehensive E-Commerce software platform using the MERN Stack (MongoDB, Express.js, React, Node.js)",
@@ -27,7 +27,7 @@ const experiences = [
   {
     title: "Search Operations Intern",
     company: "PickMe | Digital Mobility Solutions Lanka PLC",
-    period: "March 2023 – November 2023",
+    period: "July 2025 – Present",
     type: "On-site",
     responsibilities: [
       "Contributed to the enhancement of search functionality for PickMe Food & Market, improving user discovery and experience",

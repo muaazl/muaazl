@@ -27,7 +27,7 @@ export default function Home() {
 
         <p className="text-lg sm:text-xl text-muted-foreground leading-relaxed mb-12 text-pretty max-w-2xl">
           I'm interested in building intelligent, high-performance web applications that bridge the gap between
-          cutting-edge AI and exceptional user experiences. Specializing in semantic search, machine learning, 
+          cutting-edge AI and exceptional user experiences. Specializing in semantic search, machine learning,
           and modern full-stack development.
         </p>
 
@@ -38,7 +38,7 @@ export default function Home() {
             </Link>
           </Button>
           <Button asChild size="lg" variant="outline">
-            <Link href="/contact">Get In Touch</Link>
+            <a href="/muaazl-CV.pdf" target="_blank" rel="noopener noreferrer">Download CV</a>
           </Button>
         </div>
 

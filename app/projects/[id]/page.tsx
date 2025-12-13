@@ -11,7 +11,7 @@ const projects = {
     subtitle: "Movie Recommendation System",
     date: "December 2025",
     liveLink: "https://cinematch-muaaz.vercel.app/",
-    sourceCode: "https://github.com/muaazl/cinematch-ai",
+    sourceCode: "https://github.com/muaazl/cine-match",
     tags: [
       "Next.js",
       "TypeScript",
@@ -64,7 +64,7 @@ const projects = {
     subtitle: "Research Workspace",
     date: "November 2025",
     liveLink: null,
-    sourceCode: "https://github.com/muaazl/stulearn-ai",
+    sourceCode: "https://github.com/muaazl/stu-learn",
     tags: ["Next.js", "TypeScript", "Shadcn UI", "Node.js", "Express", "MongoDB", "Python", "FastAPI", "HuggingFace"],
     problem:
       "Researchers and students struggle to efficiently extract insights from lengthy PDF documents. Traditional search only finds exact keywords, missing conceptual relationships and making it difficult to synthesize information across multiple documents.",
@@ -145,7 +145,7 @@ const projects = {
     title: "UNiBUD.LK",
     subtitle: "Student Accommodation System",
     date: "May 2025 – Present",
-    liveLink: "https://unibud-lk.vercel.app/",
+    liveLink: "https://unibud.lk/",
     sourceCode: null,
     tags: ["React", "TypeScript", "Express", "Node.js", "MongoDB", "Firebase"],
     problem:
@@ -187,7 +187,7 @@ const projects = {
     title: "HR Payroll System",
     subtitle: "Human Resources Information System",
     date: "August 2025 – Present",
-    liveLink: "https://hr-payroll-system.vercel.app/",
+    liveLink: "https://hr.panoceanic.lk/",
     sourceCode: null,
     tags: ["React", "TypeScript", "Node.js", "MongoDB", "Tailwind CSS", "Express"],
     problem:

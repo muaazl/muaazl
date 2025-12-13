@@ -81,7 +81,7 @@ export default function AboutPage() {
                   </Badge>
                 </div>
                 <p className="text-muted-foreground">SLIIT City UNI (University of Bedfordshire, UK)</p>
-                <p className="text-sm text-muted-foreground mt-1">May 2025 – Present</p>
+                <p className="text-sm text-muted-foreground mt-1">February 2023 - November 2023</p>
               </div>
             </div>
           </div>

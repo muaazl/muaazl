@@ -10,8 +10,8 @@ const projects = {
     title: "CineMatch AI",
     subtitle: "Movie Recommendation System",
     date: "December 2025",
-    liveLink: "#",
-    sourceCode: "#",
+    liveLink: "https://cinematch-muaaz.vercel.app/",
+    sourceCode: "https://github.com/muaazl/cinematch-ai",
     tags: [
       "Next.js",
       "TypeScript",
@@ -64,7 +64,7 @@ const projects = {
     subtitle: "Research Workspace",
     date: "November 2025",
     liveLink: null,
-    sourceCode: "#",
+    sourceCode: "https://github.com/muaazl/stulearn-ai",
     tags: ["Next.js", "TypeScript", "Shadcn UI", "Node.js", "Express", "MongoDB", "Python", "FastAPI", "HuggingFace"],
     problem:
       "Researchers and students struggle to efficiently extract insights from lengthy PDF documents. Traditional search only finds exact keywords, missing conceptual relationships and making it difficult to synthesize information across multiple documents.",
@@ -107,7 +107,7 @@ const projects = {
     subtitle: "SKU Matching Engine",
     date: "October 2025",
     liveLink: null,
-    sourceCode: "#",
+    sourceCode: "https://github.com/muaazl/product-matcher",
     tags: ["Python", "Sentence Transformers", "Semantic Search", "Keyword Matching", "Pandas", "CSV Processing"],
     problem:
       "E-commerce businesses struggle with product catalog management when dealing with thousands of SKUs from different sources. Manual matching is time-consuming and error-prone, leading to inconsistent product data.",
@@ -145,7 +145,7 @@ const projects = {
     title: "UNiBUD.LK",
     subtitle: "Student Accommodation System",
     date: "May 2025 – Present",
-    liveLink: "#",
+    liveLink: "https://unibud-lk.vercel.app/",
     sourceCode: null,
     tags: ["React", "TypeScript", "Express", "Node.js", "MongoDB", "Firebase"],
     problem:
@@ -187,7 +187,7 @@ const projects = {
     title: "HR Payroll System",
     subtitle: "Human Resources Information System",
     date: "August 2025 – Present",
-    liveLink: "#",
+    liveLink: "https://hr-payroll-system.vercel.app/",
     sourceCode: null,
     tags: ["React", "TypeScript", "Node.js", "MongoDB", "Tailwind CSS", "Express"],
     problem:

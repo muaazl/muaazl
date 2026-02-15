@@ -170,7 +170,7 @@ const projects = {
       "Interactive map integration for property locations",
     ],
     impact:
-      "Successfully connected hundreds of students with suitable accommodation. Streamlined the rental process, reducing search time from weeks to days. [PLACEHOLDER - ADD USER ADOPTION METRICS AND SUCCESS STORIES]",
+      "Successfully connected hundreds of students with suitable accommodation. Streamlined the rental process, reducing search time from weeks to days.",
     lessonsLearned: [
       "Learned to build scalable real-time messaging systems",
       "Gained experience in handling file uploads and image optimization",

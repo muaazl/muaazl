@@ -20,10 +20,21 @@ const projects = [
     title: "CineMatch AI",
     description:
       'A world-class hybrid movie recommendation engine powered by Semantic AI, Pinecone Vector DB, and a VOD-style UI. Uses NLP to understand "vibes" rather than just keywords.',
-    tags: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "FastAPI", "Pinecone", "TMDB API"],
+    tags: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "FastAPI", "Pinecone", "sentence-transformers", "TMDB API"],
     liveLink: "https://cinematch-muaaz.vercel.app/",
     sourceCode: "https://github.com/muaazl/cine-match",
     date: "December 2025",
+    featured: true,
+  },
+  {
+    id: "stulearn-ai",
+    title: "StuLearn AI",
+    description:
+      "An AI-powered research workspace that transforms PDFs into a queryable knowledge graph. Features semantic search, auto-summarization, and topic clustering using local LLMs (HuggingFace) and a MERN stack.",
+    tags: ["Next.js", "TypeScript", "Shadcn UI", "Node.js", "Express", "MongoDB", "Python", "FastAPI", "HuggingFace"],
+    liveLink: null,
+    sourceCode: "https://github.com/muaazl/stu-learn",
+    date: "November 2025",
     featured: true,
   },
   {
@@ -31,22 +42,11 @@ const projects = [
     title: "ProductMatcher",
     description:
       "An AI-powered engine integrated into desktop software to intelligently match, clean, and tag product SKU data in batches using a product catalog.",
-    tags: ["Python", "Sentence Transformers", "Semantic Search", "Keyword Matching", "Pandas"],
+    tags: ["Python", "Sentence Transformers", "Semantic Search", "Keyword Matching", "Pandas", "CSV Processing"],
     liveLink: null,
     sourceCode: "https://github.com/muaazl/product-matcher",
     date: "October 2025",
     featured: false,
-  },
-  {
-    id: "stulearn-ai",
-    title: "StuLearn AI",
-    description:
-      "An AI-powered research workspace that transforms PDFs into a queryable knowledge graph. Features semantic search, auto-summarization, and topic clustering using local LLMs.",
-    tags: ["Next.js", "TypeScript", "Shadcn UI", "Node.js", "Express", "MongoDB", "Python", "FastAPI", "HuggingFace"],
-    liveLink: null,
-    sourceCode: "https://github.com/muaazl/stu-learn",
-    date: "November 2025",
-    featured: true,
   },
   {
     id: "unibud-lk",

@@ -2,7 +2,7 @@
 
 import React, { useEffect, useState } from "react"
 import { useForm, ValidationError } from "@formspree/react"
-import { Mail, MapPin, Phone, Github, Linkedin } from "lucide-react"
+import { Mail, MapPin, Phone, Github, Linkedin, MessageSquare } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
@@ -188,6 +188,15 @@ export default function ContactPage() {
                   aria-label="LinkedIn Profile"
                 >
                   <Linkedin className="h-6 w-6" />
+                </a>
+                <a
+                  href="https://discord.com/users/979784275819909151"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="p-3 border border-border rounded-lg hover:border-primary transition-colors"
+                  aria-label="Discord Profile"
+                >
+                  <MessageSquare className="h-6 w-6" />
                 </a>
               </div>
             </div>

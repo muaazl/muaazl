@@ -12,9 +12,9 @@ export const metadata: Metadata = {
 
 const experiences = [
   {
-    title: "Web Developer",
+    title: "Web Developer (Part Time)",
     company: "Nierwell (Pvt) Ltd.",
-    period: "March 2025 – Present",
+    period: "May 2025 – Present",
     type: "Hybrid",
     responsibilities: [
       "Led the development of a comprehensive E-Commerce software platform using the MERN Stack (MongoDB, Express.js, React, Node.js)",

@@ -27,6 +27,50 @@ const projects = [
     featured: true,
   },
   {
+    id: "sku-matchops",
+    title: "SKU-MatchOps",
+    description:
+      "An AI-powered engine built to intelligently match, clean, and tag product SKU data in batches using hybrid embedding retrieval and automated rule-based logic.",
+    tags: ["Python", "sentence-transformers", "GLiNER", "Pandas", "Streamlit"],
+    liveLink: null,
+    sourceCode: "https://github.com/muaazl/product-matcher",
+    date: "October 2025",
+    featured: false,
+  },
+  {
+    id: "moonmafia",
+    title: "MoonMafia",
+    description:
+      "A high-stakes betting game featuring a custom economic engine, secure persistent identity management, and real-time integration with external vision APIs.",
+    tags: ["Python", "FastAPI", "React", "SQLAlchemy", "JWT", "Tailwind CSS", "Framer Motion"],
+    liveLink: "https://moonmafia.vercel.app/",
+    sourceCode: "https://github.com/muaazl/moon-mafia",
+    date: "March 2026",
+    featured: true,
+  },
+  {
+    id: "moodrae-ai",
+    title: "Moodrae AI",
+    description:
+      "A privacy-first analytics engine using local NLP models to intelligently parse, cluster, and visualize WhatsApp chat logs for sentiment trends and speaker profiling.",
+    tags: ["Python", "FastAPI", "Next.js", "Transformers", "spaCy", "Pandas", "Scikit-learn", "Recharts"],
+    liveLink: "https://moodrae.vercel.app/",
+    sourceCode: "https://github.com/muaazl/moodrae-ai",
+    date: "March 2026",
+    featured: true,
+  },
+  {
+    id: "quran-intelligence",
+    title: "QuranIntelligence",
+    description:
+      "An AI-powered semantic search engine designed to intelligently retrieve, analyze, and relate Quranic verses using multi-lingual embeddings.",
+    tags: ["Python", "FastAPI", "sentence-transformers", "FAISS", "React", "SQLite"],
+    liveLink: null,
+    sourceCode: "https://github.com/muaazl/quran-intelligence",
+    date: "April 2026",
+    featured: true,
+  },
+  {
     id: "stulearn-ai",
     title: "StuLearn AI",
     description:
@@ -35,17 +79,6 @@ const projects = [
     liveLink: null,
     sourceCode: "https://github.com/muaazl/stu-learn",
     date: "November 2025",
-    featured: true,
-  },
-  {
-    id: "product-matcher",
-    title: "ProductMatcher",
-    description:
-      "An AI-powered engine integrated into desktop software to intelligently match, clean, and tag product SKU data in batches using a product catalog.",
-    tags: ["Python", "Sentence Transformers", "Semantic Search", "Keyword Matching", "Pandas", "CSV Processing"],
-    liveLink: null,
-    sourceCode: "https://github.com/muaazl/product-matcher",
-    date: "October 2025",
     featured: false,
   },
   {

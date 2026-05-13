@@ -35,7 +35,7 @@ export default function AboutPage() {
             </p>
 
             <p>
-              At the moment, I&apos;m working at PickMe as a Search Operations Intern, Contributing to the improvement
+              At the moment, I&apos;m working at PickMe as a Search Operations Intern &amp; Executive, Contributing to the improvement
               of search functionality at PickMe Food and Market by supporting tagging systems and assisting in refining 
               algorithm rules on the technical side. I also work at Nierwell (Pvt) Ltd. as a Web Developer, helping build 
               their E-Commerce platform using the MERN stack. I’m involved in database design, technical decisions, and 

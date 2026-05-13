@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 const experiences = [
   {
     title: "Web Developer (Part Time)",
-    company: "Nierwell (Pvt) Ltd.",
+    company: "Nierwell (Pvt) Ltd. (Startup)",
     period: "May 2025 – Present",
     type: "Hybrid",
     responsibilities: [
@@ -25,7 +25,7 @@ const experiences = [
     ],
   },
   {
-    title: "Search Operations Intern",
+    title: "Search Operations Intern & Executive",
     company: "PickMe | Digital Mobility Solutions Lanka PLC",
     period: "July 2025 – Present",
     type: "On-site",

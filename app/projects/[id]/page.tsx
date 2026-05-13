@@ -102,44 +102,144 @@ const projects = {
       // { url: "/placeholder.svg?height=600&width=1200", alt: "Knowledge Graph Visualization" },
     ],
   },
-  "product-matcher": {
-    title: "ProductMatcher",
+  "sku-matchops": {
+    title: "SKU-MatchOps",
     subtitle: "SKU Matching Engine",
     date: "October 2025",
     liveLink: null,
     sourceCode: "https://github.com/muaazl/product-matcher",
-    tags: ["Python", "Sentence Transformers", "Semantic Search", "Keyword Matching", "Pandas", "CSV Processing"],
+    tags: ["Python", "sentence-transformers", "GLiNER", "Pandas", "Streamlit"],
     problem:
       "E-commerce businesses struggle with product catalog management when dealing with thousands of SKUs from different sources. Manual matching is time-consuming and error-prone, leading to inconsistent product data.",
     role: "AI Engineer & Python Developer",
     solution:
-      "Created an AI-powered engine that intelligently matches, cleans, and tags product SKU data in batches. The system uses a hybrid approach combining semantic embeddings and keyword matching to ensure accurate product matching.",
+      "Created an AI-powered engine built to intelligently match, clean, and tag product SKU data in batches using hybrid embedding retrieval and automated rule-based logic.",
     techStack: [
       { name: "Python", purpose: "Core language for data processing and ML" },
       { name: "Sentence Transformers", purpose: "NLP embeddings for semantic product matching" },
-      { name: "Pandas", purpose: "Efficient CSV/Excel data processing and manipulation" },
-      { name: "Semantic & Keyword Matching", purpose: "Hybrid approach for accurate SKU matching" },
+      { name: "GLiNER", purpose: "Named Entity Recognition for precise attribute extraction" },
+      { name: "Pandas", purpose: "Efficient data processing and manipulation" },
+      { name: "Streamlit", purpose: "Interactive dashboard for match review" },
     ],
     features: [
-      "Batch processing of product catalogs from CSV/Excel files",
-      "Semantic matching using NLP embeddings for similar product identification",
-      "Keyword-based fallback matching for precise SKU identification",
+      "Batch processing of product catalogs with automated rule-based logic",
+      "Hybrid embedding retrieval for semantic product identification",
+      "Named Entity Recognition (NER) for extracting specific product attributes",
       "Automated data cleaning and normalization",
       "Confidence scoring for match quality assessment",
-      "Export matched data with tags and categorization",
     ],
     impact:
-      "Reduced product catalog management time by 80% through automated matching. The hybrid approach achieved 95%+ accuracy in product matching, significantly outperforming keyword-only solutions.",
+      "Reduced product catalog management time significantly through automated matching and cleaning.",
     lessonsLearned: [
-      "Learned the importance of hybrid approaches for real-world matching problems",
-      "Gained experience in handling large-scale CSV/Excel data processing",
-      "Understood the nuances of product catalog management in e-commerce",
-      "Mastered techniques for balancing speed and accuracy in batch processing",
+      "Learned the importance of combining NLP models like GLiNER with traditional logic",
+      "Gained experience in building interactive ML tools with Streamlit",
+      "Understood high-performance vector retrieval techniques",
     ],
     screenshots: [
       { url: "/projects/product-matcher/ProductMatcher%20Interface.png", alt: "ProductMatcher Interface" },
-      // { url: "/placeholder.svg?height=600&width=1200", alt: "Matching Results" },
     ],
+  },
+  "moonmafia": {
+    title: "MoonMafia",
+    subtitle: "A High Stakes Betting Game",
+    date: "March 2026",
+    liveLink: "https://moonmafia.vercel.app/",
+    sourceCode: "https://github.com/muaazl/moon-mafia",
+    tags: ["Python", "FastAPI", "React", "SQLAlchemy", "JWT", "Tailwind CSS", "Framer Motion"],
+    problem:
+      "Most online betting games lack transparency in their economic systems or fail to provide a seamless, secure identity management experience while maintaining high-speed real-time resolutions.",
+    role: "Full-Stack Developer & Game Logic Engineer",
+    solution:
+      "Developed a high-stakes betting game featuring a custom economic engine, secure persistent identity management using JWT, and real-time integration with external vision APIs to resolve game outcomes.",
+    techStack: [
+      { name: "FastAPI (Python)", purpose: "High-performance backend for game logic and economic engine" },
+      { name: "React", purpose: "Dynamic frontend for real-time game updates" },
+      { name: "SQLAlchemy", purpose: "Database ORM for persistent storage of game state" },
+      { name: "JWT", purpose: "Secure authentication and identity management" },
+      { name: "Tailwind CSS", purpose: "Sleek and modern game interface design" },
+    ],
+    features: [
+      "Custom-built economic engine for game mechanics",
+      "Real-time integration with external vision APIs for outcome resolution",
+      "Secure user profiles and history tracking",
+      "Interactive and animated UI for engaging gameplay",
+    ],
+    impact:
+      "Built a secure and scalable gaming platform with real-time outcome resolution.",
+    lessonsLearned: [
+      "Mastered real-time data handling and integration with external APIs",
+      "Gained deep knowledge in building custom economic systems",
+      "Understood secure identity management in high-stakes environments",
+    ],
+    screenshots: [],
+  },
+  "moodrae-ai": {
+    title: "Moodrae AI",
+    subtitle: "A Chat Pattern Analyzer Platform",
+    date: "March 2026",
+    liveLink: "https://moodrae.vercel.app/",
+    sourceCode: "https://github.com/muaazl/moodrae-ai",
+    tags: ["Python", "FastAPI", "Next.js", "Transformers", "spaCy", "Pandas", "Scikit-learn", "Recharts"],
+    problem:
+      "Personal and professional chat logs contain vast amounts of unstructured data that are difficult to analyze for trends, sentiment shifts, or speaker profiles without manual effort.",
+    role: "AI Developer & Data Engineer",
+    solution:
+      "Built a privacy-first analytics engine using local NLP models to intelligently parse, cluster, and visualize WhatsApp chat logs for sentiment trends, topic shifts, and speaker profiling.",
+    techStack: [
+      { name: "FastAPI (Python)", purpose: "Backend API for processing NLP models" },
+      { name: "Next.js", purpose: "Modern frontend for data visualization" },
+      { name: "Transformers (HuggingFace)", purpose: "Local LLMs for sentiment analysis" },
+      { name: "spaCy", purpose: "Entity recognition and chat parsing" },
+      { name: "Recharts", purpose: "Interactive charts and data visualization" },
+    ],
+    features: [
+      "Privacy-first processing using local NLP models",
+      "Intelligent clustering of chat topics",
+      "Sentiment trend analysis over time",
+      "Speaker profiling and communication pattern detection",
+    ],
+    impact:
+      "Provides users with deep insights into their digital communication patterns without compromising privacy.",
+    lessonsLearned: [
+      "Optimized local model inference for real-time analysis",
+      "Learned complex data visualization techniques with Recharts",
+      "Deepened understanding of entity recognition and topic modeling",
+    ],
+    screenshots: [],
+  },
+  "quran-intelligence": {
+    title: "QuranIntelligence",
+    subtitle: "A Quran Verse Search Platform",
+    date: "April 2026",
+    liveLink: null,
+    sourceCode: "https://github.com/muaazl/quran-intelligence",
+    tags: ["Python", "FastAPI", "sentence-transformers", "FAISS", "React", "SQLite", "Pandas"],
+    problem:
+      "Finding related verses in religious texts often requires specific keyword knowledge, making it difficult to explore themes or conceptual links across different sections of the text.",
+    role: "AI Engineer & Backend Developer",
+    solution:
+      "Created an AI-powered semantic search engine designed to intelligently retrieve, analyze, and relate Quranic verses using multi-lingual embeddings and high-performance vector similarity matching.",
+    techStack: [
+      { name: "Python & FastAPI", purpose: "High-performance backend for semantic search" },
+      { name: "Sentence Transformers (BGE-M3)", purpose: "Multi-lingual embeddings for semantic understanding" },
+      { name: "FAISS", purpose: "High-performance vector indexing for fast retrieval" },
+      { name: "SQLite", purpose: "Lightweight database for verse metadata" },
+      { name: "React", purpose: "Clean interface for verse exploration" },
+    ],
+    features: [
+      "Semantic search across Quranic verses in multiple languages",
+      "Conceptual link detection between related verses",
+      "Theme-based retrieval and exploration",
+      "Fast and efficient vector retrieval using FAISS",
+    ],
+    impact:
+      "Enables users to explore the Quran through concepts and themes rather than just keywords.",
+    lessonsLearned: [
+      "Evaluated different embedding models for religious text",
+      "Implemented high-performance vector indexing with FAISS",
+      "Handled multi-lingual data processing and retrieval",
+    ],
+    screenshots: [],
   },
   "unibud-lk": {
     title: "UNiBUD.LK",

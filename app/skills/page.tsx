@@ -22,12 +22,12 @@ const skillCategories = [
   {
     title: "Frameworks & Libraries",
     description: "Frontend and backend frameworks",
-    skills: ["React", "Next.js", "Node.js", "Express.js", "Tailwind CSS"],
+    skills: ["React", "Next.js", "Node.js", "Express.js", "Tailwind CSS", "FastAPI", "Streamlit"],
   },
   {
     title: "Databases & Caching",
     description: "Data storage and management",
-    skills: ["MongoDB", "MySQL", "Supabase", "Vector DB"],
+    skills: ["MongoDB", "MySQL", "Supabase", "Vector DB", "FAISS", "SQLite", "SQLAlchemy"],
   },
   {
     title: "Machine Learning & Data Tools",
@@ -39,6 +39,9 @@ const skillCategories = [
       "spaCy",
       "sentence-transformers",
       "SciPy",
+      "GLiNER",
+      "HuggingFace",
+      "BGE-M3 Embeddings",
     ],
   },
   {
@@ -62,7 +65,7 @@ const skillCategories = [
   {
     title: "Other Technologies",
     description: "Additional technical skills",
-    skills: ["REST APIs", "CSV/Excel Data Processing", "Web Scraping", "Firebase"],
+    skills: ["REST APIs", "CSV/Excel Data Processing", "Web Scraping", "Firebase", "JWT"],
   },
   {
     title: "Design Tools",

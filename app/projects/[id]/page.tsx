@@ -70,7 +70,7 @@ const projects = {
       "Researchers and students struggle to efficiently extract insights from lengthy PDF documents. Traditional search only finds exact keywords, missing conceptual relationships and making it difficult to synthesize information across multiple documents.",
     role: "Full-Stack Developer & ML Engineer",
     solution:
-      "Developed an AI-powered research workspace that transforms PDFs into queryable knowledge graphs. The system uses semantic search, automatic summarization, and topic clustering with local LLMs from HuggingFace, providing an intelligent research assistant.",
+      "Developed an AI-powered research workspace that transforms PDFs into queryable knowledge graphs. The system uses semantic search, automatic summarization, and topic clustering with local LLMs from HuggingFace, providing an intelligent research assistant, built on a MERN stack.",
     techStack: [
       { name: "Next.js", purpose: "Modern React framework for the frontend interface" },
       { name: "TypeScript", purpose: "Type safety across the entire stack" },

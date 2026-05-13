@@ -35,7 +35,7 @@ export default function AboutPage() {
             </p>
 
             <p>
-              At the moment, I&apos;m working at PickMe as a Search Operation Intern, Contributing to the improvement 
+              At the moment, I&apos;m working at PickMe as a Search Operations Intern, Contributing to the improvement
               of search functionality at PickMe Food and Market by supporting tagging systems and assisting in refining 
               algorithm rules on the technical side. I also work at Nierwell (Pvt) Ltd. as a Web Developer, helping build 
               their E-Commerce platform using the MERN stack. I’m involved in database design, technical decisions, and 
@@ -81,7 +81,7 @@ export default function AboutPage() {
                   </Badge>
                 </div>
                 <p className="text-muted-foreground">SLIIT City UNI (University of Bedfordshire, UK)</p>
-                <p className="text-sm text-muted-foreground mt-1">February 2023 - November 2023</p>
+                <p className="text-sm text-muted-foreground mt-1">March 2023 - November 2023</p>
               </div>
             </div>
           </div>

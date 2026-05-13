@@ -30,7 +30,7 @@ const skillCategories = [
     skills: ["MongoDB", "MySQL", "Supabase", "Vector DB"],
   },
   {
-    title: "Machine Learning & Date Tools",
+    title: "Machine Learning & Data Tools",
     description: "AI/ML tools and libraries",
     skills: [
       "scikit-learn",
@@ -67,7 +67,7 @@ const skillCategories = [
   {
     title: "Design Tools",
     description: "Design and Wireframe tools",
-    skills: ["Figma", "Wireframing", "Prototyping", " Basic UI/UX Principles"],
+    skills: ["Figma", "Wireframing", "Prototyping", "Basic UI/UX Principles"],
   },
 ]
 

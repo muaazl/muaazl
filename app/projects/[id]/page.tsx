@@ -107,7 +107,7 @@ const projects = {
     subtitle: "SKU Matching Engine",
     date: "October 2025",
     liveLink: null,
-    sourceCode: "https://github.com/muaazl/product-matcher",
+    sourceCode: "https://github.com/muaazl/sku-matchops",
     tags: ["Python", "sentence-transformers", "GLiNER", "Pandas", "Streamlit"],
     problem:
       "E-commerce businesses struggle with product catalog management when dealing with thousands of SKUs from different sources. Manual matching is time-consuming and error-prone, leading to inconsistent product data.",
@@ -143,7 +143,7 @@ const projects = {
     title: "MoonMafia",
     subtitle: "A High Stakes Betting Game",
     date: "March 2026",
-    liveLink: "https://moonmafia.vercel.app/",
+    liveLink: "https://moon-mafia.vercel.app/",
     sourceCode: "https://github.com/muaazl/moon-mafia",
     tags: ["Python", "FastAPI", "React", "SQLAlchemy", "JWT", "Tailwind CSS", "Framer Motion"],
     problem:
@@ -178,7 +178,7 @@ const projects = {
     subtitle: "A Chat Pattern Analyzer Platform",
     date: "March 2026",
     liveLink: "https://moodrae.vercel.app/",
-    sourceCode: "https://github.com/muaazl/moodrae-ai",
+    sourceCode: "https://github.com/muaazl/moodrae",
     tags: ["Python", "FastAPI", "Next.js", "Transformers", "spaCy", "Pandas", "Scikit-learn", "Recharts"],
     problem:
       "Personal and professional chat logs contain vast amounts of unstructured data that are difficult to analyze for trends, sentiment shifts, or speaker profiles without manual effort.",

@@ -1,8 +1,8 @@
 # Hi, I'm Muaaz
 
-A CS Graduate focused on **search, ranking, and retrieval systems**, the part of software that turns a pile of messy data into the right answer, fast.
+A CS Graduate interested on **search, ranking, and retrieval concepts**, the part of software that turns a pile of messy data into the right answer, fast.
 
-I build search and retrieval systems, the layer between a pile of data and the right answer. My most complete work so far is [SKU-MatchOps](https://github.com/muaazl/sku-matchops), a hybrid dense + sparse retrieval pipeline with cross-encoder reranking and zero-shot entity extraction, built for large-scale product catalog matching.
+I build search and retrieval systems. My most complete work so far is [SKU-MatchOps](https://github.com/muaazl/sku-matchops), a hybrid dense + sparse retrieval pipeline with cross-encoder reranking and zero-shot entity extraction, built for large-scale product catalog matching.
 
 Beyond that, I also do full-stack software development, e-commerce platforms and internal tools to solve problems and make life easier.
 
